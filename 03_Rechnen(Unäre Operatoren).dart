@@ -9,7 +9,7 @@ void main() {
   test++;
   print(test);
   
-  int zahl = 13;
+  int zahl = 3981;
   zahl*= zahl;
   print(zahl);
   
